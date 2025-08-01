@@ -44,7 +44,7 @@ The author experienced prolonged emotional enmeshment with someone displaying co
 
 - Break down manipulative behaviour patterns  
 - Offer alternate interpretations of events  
-- Formalise the **Empathy Thesis** — a framework for bounded, non-self-erasing compassion  
+- Formalise the [📄 Empathy Thesis](https://github.com/human-person-123/human-person-123-archive/blob/main/empathy-thesis.md) — a framework for bounded, non-self-erasing compassion  
 - Interrupt spirals of doubt and restore narrative agency
 
 Crucially, the model never mirrored narcissistic framing. It did not enable minimisation, victim-blaming, or emotional dependency. This made it safer than many human interactions at the time.
